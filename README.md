@@ -65,7 +65,7 @@
 
 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/surekha-salunkhe/)
+[LinkedIn](https://www.linkedin.com/in/surekhasalunkhe19/)
 
 
 <!--
