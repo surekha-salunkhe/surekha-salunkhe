@@ -24,8 +24,8 @@ I care deeply about usability, performance, and clean, maintainable system desig
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
-  <!-- Backend -->
+  
+  ### 🧩 Backend
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
   </a>
