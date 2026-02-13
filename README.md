@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Surekha Salunkhe</h1>
-<h4 align="center">I’m a passionate Software Developer building **scalable web applications, backend systems, microservices, and full-stack solutions**.</h4>  
-<h4 align="center"> I enjoy solving complex problems with **clean code, cloud technologies, and modern frameworks**, and I’m always exploring AI/ML, DevOps, and new tech.</h4>
+<h4 align="center">I’m a passionate Software Developer building scalable web applications, backend systems, microservices, and full-stack solutions.</h4>  
+<h4 align="center"> I enjoy solving complex problems with clean code, cloud technologies, and modern frameworks, and I’m always exploring AI/ML, DevOps, and new tech.</h4>
 
 ---
 ### 🚀 About Me
 
 🌐 Full-stack engineer building scalable, production-ready applications across web, frontend, and backend systems.
-
 🎓 MS in Computer Science, Pace University.
-
 💼 Experience developing AI-powered and medical applications at Infosys, Keeper AI, and Shop Taki.
-
 ☁️ Strong focus on cloud architecture, DevOps practices, and system design.
-
 🤖 Exploring AI/ML, LLM integrations, and Generative AI pipelines.
-
 I care deeply about usability, performance, and clean, maintainable system design.
 
 ---
@@ -22,7 +17,6 @@ I care deeply about usability, performance, and clean, maintainable system desig
 # 🛠 Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   
   ### 🧩 Backend
@@ -194,8 +188,7 @@ I care deeply about usability, performance, and clean, maintainable system desig
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">
     <img src="https://img.shields.io/badge/Agile-F36F21?style=flat" alt="Agile" title="Agile Methodology"/>
   </a>
----
-
+</p>
 ## 🌍 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/surekhasalunkhe19/)
