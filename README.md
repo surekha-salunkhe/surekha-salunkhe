@@ -17,9 +17,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surekha-salunkhe&layout=compact)
 
+<!--
 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surekha-salunkhe&theme=dark)
+-->
 
 📫 Let’s Connect
 
