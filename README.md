@@ -42,7 +42,7 @@ I care deeply about usability, performance, and clean, maintainable system desig
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45"/>
   </a>
 
-  <!-- Frontend -->
+  ### 🎨 Frontend
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/>
   </a>
@@ -55,68 +55,145 @@ I care deeply about usability, performance, and clean, maintainable system desig
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45"/>
   </a>
 
-  <!-- Cloud & DevOps -->
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="45" height="45"/>
+  </a>
+
+  ### ☁️ Cloud & DevOps
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="45" height="45"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/>
   </a>
 
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="45" height="45"/>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="45" height="45"/>
   </a>
-
-  <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45"/>
+  
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="45" height="45"/>
   </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="45" height="45"/>
+  
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="45" height="45"/>
   </a>
-
+  
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="45" height="45"/>
   </a>
-
-  <!-- Tools -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45"/>
+  
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="45" height="45"/>
+  </a>
+  
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="45" height="45"/>
   </a>
 
+  ### 🗄 Database
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="45" height="45"/>
+  </a>
+  
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45"/>
+  </a>
+  
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" title="DynamoDB" width="45" height="45"/>
+  </a>
+
+  ### 🤖 AI/ML & Generative AI
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45"/>
+  </a>
+  
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="45" height="45"/>
+  </a>
+  
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="45" height="45"/>
+  </a>
+  
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="45" height="45"/>
+  </a>
+  
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="45" height="45"/>
+  </a>
+  
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/>
+  </a>
+  
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="45" height="45"/>
+  </a>
+  
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" title="Google Colab" width="45" height="45"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+    <img src="https://img.shields.io/badge/NLP-FF6F61?style=flat&logo=ai&logoColor=white" alt="NLP" title="Natural Language Processing"/>
+  </a>
+  
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI" />
+  </a>
+  
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anthropic-Claude-3D3D3D?style=flat&logo=anthropic&logoColor=white" alt="Anthropic Claude" title="Anthropic Claude" />
+  </a>
+  
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT" />
+  </a>
+  
+  <a href="https://github.com/features/copilot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=flat&logo=github&logoColor=white" alt="GitHub Copilot" title="GitHub Copilot" />
+  </a>
+
+  ### 🛠 Tools & Productivity
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="45" height="45"/>
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="45" height="45"/>
+  </a>
+  
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="45" height="45"/>
+  </a>
+  
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="45" height="45"/>
   </a>
-
-</p>
-
-### 🧩 Backend
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs" />
-</p>
-
-### 🎨 Frontend
-(JavaScript, React, TypeScript, Angular, HTML, CSS badges)
-
-### ☁️ Cloud & DevOps
-(AWS, Docker, Kubernetes, Kafka, CI/CD, Azure, GCP)
-
-### 🗄 Databases
-(MySQL, PostgreSQL, MongoDB, Redis, Oracle)
-
-### 🤖 AI / ML / GenAI
-(TensorFlow, PyTorch, OpenAI, Claude, NLP, etc.)
-
-### 🛠 Tools
-(VS Code, GitHub, Jira, Agile, Figma)
-
+  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45"/>
+  </a>
+  
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="45" height="45"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">
+    <img src="https://img.shields.io/badge/Agile-F36F21?style=flat" alt="Agile" title="Agile Methodology"/>
+  </a>
 ---
 
 ## 🌍 Connect With Me
