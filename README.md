@@ -1,3 +1,62 @@
+<h1 align="center">Hi 👋, I'm Surekha Salunkhe</h1>
+<h3 align="center">Senior Software Engineer | Backend-Focused | Cloud & AI Enthusiast</h3>
+
+---
+
+### 🚀 About Me
+
+💻 Backend-heavy engineer (70%) building scalable microservices & distributed systems  
+🌐 Strong frontend experience (30%) with modern UI frameworks  
+☁️ Passionate about Cloud, DevOps & system design  
+🤖 Exploring AI/ML, LLM integrations & Generative AI pipelines  
+🧠 I love solving complex engineering problems with clean, production-ready code  
+
+---
+
+### 🔭 Currently
+
+- Building scalable backend systems with **Java & Spring Boot**
+- Exploring **LLM integrations & RAG-style pipelines**
+- Deepening knowledge in **System Design & Distributed Systems**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surekha-salunkhe&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surekha-salunkhe&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### 🧩 Backend
+(Python, Java, Spring Boot, Node.js badges)
+
+### 🎨 Frontend
+(JavaScript, React, TypeScript, Angular, HTML, CSS badges)
+
+### ☁️ Cloud & DevOps
+(AWS, Docker, Kubernetes, Kafka, CI/CD, Azure, GCP)
+
+### 🗄 Databases
+(MySQL, PostgreSQL, MongoDB, Redis, Oracle)
+
+### 🤖 AI / ML / GenAI
+(TensorFlow, PyTorch, OpenAI, Claude, NLP, etc.)
+
+### 🛠 Tools
+(VS Code, GitHub, Jira, Agile, Figma)
+
+---
+
+## 🌍 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/surekhasalunkhe19/)
+
+<!--
 👋 Hi there! I’m Surekha.  
 
 🌟 I’m a passionate Software Developer building **scalable web applications, backend systems, microservices, and full-stack solutions**.  
@@ -66,7 +125,7 @@
 📫 Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/surekhasalunkhe19/)
-
+-->
 
 <!--
 📌 Tip: Shields.io is your friend for tech badges: https://shields.io?
