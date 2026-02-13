@@ -1,39 +1,35 @@
 <h1 align="center">Hi 👋, I'm Surekha Salunkhe</h1>
-<h3 align="center">Senior Software Engineer | Backend-Focused | Cloud & AI Enthusiast</h3>
+<h4 align="center">I’m a passionate Software Developer building **scalable web applications, backend systems, microservices, and full-stack solutions**.</h4>  
+<h4 align="center"> I enjoy solving complex problems with **clean code, cloud technologies, and modern frameworks**, and I’m always exploring AI/ML, DevOps, and new tech.</h4>
 
 ---
-
 ### 🚀 About Me
 
-💻 Backend-heavy engineer (70%) building scalable microservices & distributed systems  
-🌐 Strong frontend experience (30%) with modern UI frameworks  
-☁️ Passionate about Cloud, DevOps & system design  
-🤖 Exploring AI/ML, LLM integrations & Generative AI pipelines  
-🧠 I love solving complex engineering problems with clean, production-ready code  
+🌐 Full-stack engineer building scalable, production-ready applications across web, frontend, and backend systems.
 
----
+🎓 MS in Computer Science, Pace University.
 
-### 🔭 Currently
+💼 Experience developing AI-powered and medical applications at Infosys, Keeper AI, and Shop Taki.
 
-- Building scalable backend systems with **Java & Spring Boot**
-- Exploring **LLM integrations & RAG-style pipelines**
-- Deepening knowledge in **System Design & Distributed Systems**
+☁️ Strong focus on cloud architecture, DevOps practices, and system design.
 
----
+🤖 Exploring AI/ML, LLM integrations, and Generative AI pipelines.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surekha-salunkhe&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surekha-salunkhe&layout=compact&theme=tokyonight" />
-</p>
+I care deeply about usability, performance, and clean, maintainable system design.
 
 ---
 
 # 🛠 Tech Stack
 
 ### 🧩 Backend
-(Python, Java, Spring Boot, Node.js badges)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs" />
+</p>
 
 ### 🎨 Frontend
 (JavaScript, React, TypeScript, Angular, HTML, CSS badges)
